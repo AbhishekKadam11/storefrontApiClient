@@ -1,0 +1,1 @@
+{"version":3,"file":"app-env-variables.js","sourceRoot":"","sources":["../../../../../common/shared/component/app-env-variables.ts"],"names":[],"mappings":";;;AAAA,MAAa,eAAe;IACxB,YAAsB,aAAa,OAAO,CAAC,GAAG;QAAxB,eAAU,GAAV,UAAU,CAAc;IAAI,CAAC;IAEnD,IAAW,eAAe;QACtB,OAAO,QAAQ,CAAC,IAAI,CAAC,UAAU,CAAC,gBAAgB,IAAI,MAAM,CAAC,CAAC;IAChE,CAAC;CACJ;AAND,0CAMC"}
