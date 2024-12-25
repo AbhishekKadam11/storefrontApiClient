@@ -4,7 +4,7 @@
   "description": "Backend service to connect shopify storefront api",
   "main": "src/index.ts",
   "scripts": {
-    "dev-start": "concurrently \"npx tsc -p src --watch\" \"nodemon --watch './**/*.ts' --exec nodemon dist/src/index.js\"",
+    "dev": "concurrently \"npx tsc -p src --watch\" \"nodemon --watch './**/*.ts' --exec nodemon dist/src/index.js\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Abhishek.K",
