@@ -10,8 +10,6 @@
   "author": "Abhishek.K",
   "license": "ISC",
   "dependencies": {
-    "@shopify/app-bridge": "^3.7.10",
-    "@shopify/shopify-api": "^11.6.1",
     "dotenv": "^16.4.7",
     "express": "^4.21.2"
   },
